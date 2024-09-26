@@ -71,7 +71,7 @@ const Calculator = () => {
         </div>
         <div className="mt-4 flex items-center justify-center text-gray-600">
           <FaUser className={`${theme === 'light' ? 'text-black' : 'text-white'} mr-2`} />
-          <p className={`${theme === 'light' ? 'text-black' : 'text-white'}`}>Author: Eng Abdalla</p>
+          <p className={`${theme === 'light' ? 'text-black' : 'text-white'}`}>Developer: Eng Abdalla</p>
         </div>
       </div>
     </div>
